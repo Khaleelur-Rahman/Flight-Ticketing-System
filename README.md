@@ -1,1 +1,3 @@
-# Flight-Ticketing-System
+# Flight Ticketing System
+## Objective
+#### A ticketing system project using cloud technology would involve creating a system that allows users to submit and track support tickets through a cloud-based platform. This could include features such as email notifications, assignment of tickets to specific team members, and a user-friendly interface for submitting and viewing the status of tickets. The project would likely involve the use of cloud computing services (Microsoft Azure) to host the ticketing system and manage data storage and processing. Additionally, the project would likely require the use of programming languages and frameworks such as JavaScript, Python, and C++ to build the system. 
